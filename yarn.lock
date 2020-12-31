@@ -1448,8 +1448,9 @@ ctype@0.5.3:
   resolved "https://registry.yarnpkg.com/ctype/-/ctype-0.5.3.tgz#82c18c2461f74114ef16c135224ad0b9144ca12f"
   integrity sha1-gsGMJGH3QRTvFsE1IkrQuRRMoS8=
 
-"cucumber@github:xolvio/cucumber-js#v1.3.0-chimp.6":
+cucumber@xolvio/cucumber-js#v1.3.0-chimp.6:
   version "1.3.0"
+  uid cf953cb5b5de30dbcc279f59e4ebff3aa040071c
   resolved "https://codeload.github.com/xolvio/cucumber-js/tar.gz/cf953cb5b5de30dbcc279f59e4ebff3aa040071c"
   dependencies:
     camel-case "^3.0.0"
@@ -2099,8 +2100,9 @@ glob@^7.0.0, glob@^7.0.3, glob@^7.0.6, glob@^7.1.3, glob@~7.1.1:
     once "^1.3.0"
     path-is-absolute "^1.0.0"
 
-"glob@github:lucetius/node-glob#chimp":
+glob@lucetius/node-glob#chimp:
   version "7.1.1"
+  uid "51c7ca6e69bfbd17db5f1ea710e3f2a7a457d9ce"
   resolved "https://codeload.github.com/lucetius/node-glob/tar.gz/51c7ca6e69bfbd17db5f1ea710e3f2a7a457d9ce"
   dependencies:
     fs.realpath "^1.0.0"
@@ -4351,9 +4353,9 @@ uri-js@^4.2.2:
     punycode "^2.1.0"
 
 urijs@^1.19.1:
-  version "1.19.2"
-  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.19.2.tgz#f9be09f00c4c5134b7cb3cf475c1dd394526265a"
-  integrity sha512-s/UIq9ap4JPZ7H1EB5ULo/aOUbWqfDi7FKzMC2Nz+0Si8GiT1rIEaprt8hy3Vy2Ex2aJPpOQv4P4DuOZ+K1c6w==
+  version "1.19.5"
+  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.19.5.tgz#119683ab4b2fb0bd637e5ea6dd9117bcac68d3e4"
+  integrity sha512-48z9VGWwdCV5KfizHsE05DWS5fhK6gFlx5MjO7xu0Krc5FGPWzjlXEVV0nPMrdVuP7xmMHiPZ2HoYZwKOFTZOg==
 
 urix@^0.1.0:
   version "0.1.0"
